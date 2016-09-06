@@ -1,2 +1,3 @@
 # hello-word
-beginner github user
+Beginner git user
+
